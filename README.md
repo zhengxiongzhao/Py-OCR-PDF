@@ -1,4 +1,4 @@
-Python PDF OCR
+# Python PDF OCR
 
 ```bash
 brew install tesseract
