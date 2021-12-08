@@ -1,5 +1,7 @@
 # Python PDF OCR
 
+[Tesseract documentation](https://tesseract-ocr.github.io/)
+
 ```bash
 brew install tesseract
 brew install tesseract-lang
